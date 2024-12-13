@@ -3,3 +3,8 @@ This is a personal side project I decieded to take on as I wanted an a simple, y
 
 # Author
 Aidan Weyandt
+
+## Credits and Technology Stack
+**Development Software**
+- ${\textsf{\color{green}GitHub}}$
+- ${\textsf{\color{green}VsCode (Data Workspace v0.5.0)}}$
