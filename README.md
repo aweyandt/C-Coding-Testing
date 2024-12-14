@@ -1,7 +1,5 @@
-# Personal-Project
-
 # Goals
-Explore and experiment to deepen my knowledge and comprehension of C,
+Explore and experiment to deepen my knowledge and comprehension of C
 
 # Goals Accomplished
 Have successfully done the following
