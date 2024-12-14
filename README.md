@@ -5,7 +5,7 @@ Explore and experiment to deepen my knowledge and comprehension of C
 ##Various Sections##
 
 Below are various sections within this project that will focus on multiple areas of C.
-- [C Files/File Handling](#C-Files/File-Handling))
+ - [File Handling](./C%20Files/File%20Handling/README.md)
 
 
 ## Credits and Technology Stack
