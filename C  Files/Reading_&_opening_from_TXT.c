@@ -3,9 +3,9 @@
 
 void exit_status(int status) {
     if (status == 0) {
-        printf("Testfile workds\n");
+        printf("Testfile works\n");
     } else if (status == 1) {
-        printf("womp womp\n");
+        printf("File Filed\n");
     }
 }
 
