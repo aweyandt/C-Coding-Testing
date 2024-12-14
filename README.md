@@ -5,7 +5,7 @@ Explore and experiment to deepen my knowledge and comprehension of C
 ##Various Sections##
 
 Below are various sections within this project that will focus on multiple areas of C.
-- [Go to Goals Accomplished section](#goals-accomplished)
+- [Go to Goals Accomplished section](C_Files/File Handling)
 
 
 ## Credits and Technology Stack
