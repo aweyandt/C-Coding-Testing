@@ -6,6 +6,12 @@ Explore and experiment to deepen my knowledge and comprehension of C
 
 Below are various sections within this project that will focus on multiple areas of C.
  - [File Handling](C-Files/File-Handling/File-Handling.md)
+ - [Input and Output] - TBD
+ - [Pointers] - TBD
+ - [Operators and Arithmetic] - TBD
+
+
+
 
 
 ## Credits and Technology Stack
