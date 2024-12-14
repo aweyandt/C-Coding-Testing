@@ -1,11 +1,18 @@
 # Personal-Project
-This is a personal side project I decieded to take on as I wanted an a simple, yet working program to identify and compare the holdings between various Exchange-Traded Fund (ETF) and Mutual Funds
 
 # Goals
-Take in both XSLX and CSV files and display the results in a neat way. 
+Explore and experiment to deepen my knowledge and comprehension of C,
+
+# Goals Accomplished
+Have successfully done the following
+  1. I used a separate exit status function to call upon it quickly. 
+  2. Successfully used read from a txt file.
+  3. Used basic pointers to assign items in memory.
 
 # Author
 Aidan Weyandt
+
+
 
 ## Credits and Technology Stack
 **Development Software**
