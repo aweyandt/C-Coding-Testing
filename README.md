@@ -3,7 +3,7 @@ Explore and experiment to deepen my knowledge and comprehension of C
 
 # Goals Accomplished
 1. Custom Exit Status Function:
-  - Devloped a custome function (exit_status) to handle two types of exit codes. This allowed for more flexible and clear error managment
+   - Devloped a custome function (exit_status) to handle two types of exit codes. This allowed for more flexible and clear error managment
 
 2. File Handling in C
   - Successfully opened a file in read mode (fopen()) and checked if it opened correctly by verifying the file pointer
