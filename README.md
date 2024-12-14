@@ -1,5 +1,8 @@
-# Goals
-Explore and experiment to deepen my knowledge and comprehension of C
+#START HERE
+Hello and welcome to my project! Each section focuses on a specific aspect of the language, providing opportunities for hands-on experimentation and learning. Thanks for stopping by!
+
+## Goals
+The primary aim of this project is to explore various concepts in C, experiment with different techniques, and gain a comprehensive understanding of the language.
 
 
 ## Various Sections
