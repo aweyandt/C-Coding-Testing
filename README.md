@@ -9,7 +9,7 @@ Below are various sections within this project that will focus on multiple areas
  - [Input and Output] - TBD
  - [Pointers] - TBD
  - [Operators and Arithmetic] - TBD
-  - [Calculator] - TBD 
+   - [Calculator] - TBD 
 
 
 
@@ -17,11 +17,11 @@ Below are various sections within this project that will focus on multiple areas
 
 ## Credits and Technology Stack
 **Development Software**
-- ${\textsf{\color{green}GitHub}}$
-- ${\textsf{\color{green}VsCode (Data Workspace v0.5.0)}}$
+- ${\textsf{\color{yellow}GitHub}}$
+- ${\textsf{\color{yellow}VsCode (Data Workspace v0.5.0)}}$
 
 **Languages & Libraries**
- - ${\textsf{\color{green}C Programming Language}}$
- - ${\textsf{\color{green}Standard Library}}$
+ - ${\textsf{\color{yellow}C Programming Language}}$
+ - ${\textsf{\color{yellow}Standard Library}}$
     - Utilized standard libraries such as stdio.h for file handling and stdlib.h for error management.
 
