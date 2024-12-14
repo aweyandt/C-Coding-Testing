@@ -9,6 +9,7 @@ Below are various sections within this project that will focus on multiple areas
  - [Input and Output] - TBD
  - [Pointers] - TBD
  - [Operators and Arithmetic] - TBD
+  - [Calculator] - TBD 
 
 
 
