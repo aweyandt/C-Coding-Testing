@@ -1,4 +1,4 @@
-#START HERE
+# START HERE
 Hello and welcome to my project! Each section focuses on a specific aspect of the language, providing opportunities for hands-on experimentation and learning. Thanks for stopping by!
 
 ## Goals
